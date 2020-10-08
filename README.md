@@ -1,3 +1,4 @@
 # Gradio
 <img src="https://github.com/hmgtech/Gradio/blob/main/screenshot.png">
-# Real time UI for any ML Model!!
+
+<h1>Real time UI for any ML Model!!</h1>
